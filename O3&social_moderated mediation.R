@@ -11,7 +11,7 @@ library(miceadds)
 library(broom.mixed)
 
 library(haven)
-participant_structure_cognitive <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+participant_structure_cognitive <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(participant_structure_cognitive)
 
 
@@ -390,7 +390,7 @@ library(miceadds)
 library(broom.mixed)
 
 library(haven)
-participant_structure_cognitive <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+participant_structure_cognitive <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(participant_structure_cognitive)
 
 
@@ -911,7 +911,7 @@ library(miceadds)
 library(broom.mixed)
 
 library(haven)
-participant_structure_cognitive <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+participant_structure_cognitive <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(participant_structure_cognitive)
 
 
@@ -1381,7 +1381,7 @@ library(miceadds)
 library(broom.mixed)
 
 library(haven)
-participant_structure_cognitive <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+participant_structure_cognitive <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(participant_structure_cognitive)
 
 
