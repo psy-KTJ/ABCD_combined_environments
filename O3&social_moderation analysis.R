@@ -8,7 +8,7 @@ library(lme4)
 library(miceadds)
 library(broom.mixed)
 library(haven)
-structure_pm25o3no2 <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+structure_pm25o3no2 <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(structure_pm25o3no2)
 
 
@@ -253,7 +253,7 @@ library(lme4)
 library(miceadds)
 library(broom.mixed)
 library(haven)
-structure_pm25o3no2 <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+structure_pm25o3no2 <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(structure_pm25o3no2)
 
 
@@ -505,7 +505,7 @@ library(lme4)
 library(miceadds)
 library(broom.mixed)
 library(haven)
-structure_pm25o3no2 <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+structure_pm25o3no2 <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(structure_pm25o3no2)
 
 
@@ -840,7 +840,7 @@ library(lme4)
 library(miceadds)
 library(broom.mixed)
 library(haven)
-structure_pm25o3no2 <- read_sav("D:/ME/BNU/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
+structure_pm25o3no2 <- read_sav("D:/ME/ABCD/environment-culture-brain/participant_structure_total_brain.sav")
 View(structure_pm25o3no2)
 
 
