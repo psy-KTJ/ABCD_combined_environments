@@ -1567,7 +1567,7 @@ for (m in dat_nms) print(paste("number missing for ",m,": ",sum(is.na(participan
 n.imp = 20 
 n.iter = 5
 
-options(max.print = 20000)##显示20000行
+options(max.print = 20000)
 
 #set the variable list
 var.ls13 <- c("site_id0", "family_id0", "age0", "age2", 
